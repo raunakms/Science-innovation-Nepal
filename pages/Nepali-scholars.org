@@ -118,6 +118,14 @@ But this needs help from people who actually know their field and can make a fai
   He is interested in developing diagnostic and therapeutic tools targeting candidates responsible for tumorigenesis.
 - [[https://scholar.google.com/citations?user=lgGTZ5EAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Roshan_lal_Shrestha][Researchgate]]
 
+*** [[https://profiles.stanford.edu/bikram-sharma][Bikram Sharma]]
+:PROPERTIES:
+:h-index: 3
+:END:
+- dept. of Biology, Stanford University
+- Vascular Biology, Cardiovascular Development, Cancer Biology
+- [[https://scholar.google.com/citations?user=fsb6iYIAAAAJ&hl=en][Google scholar]]
+
 *** Rajendra Bahadur Shahi
 :PROPERTIES:
 :h-index: 2
