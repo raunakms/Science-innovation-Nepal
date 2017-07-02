@@ -60,6 +60,15 @@ But this needs help from people who actually know their field and can make a fai
   - Seems like no Google scholar and Researchgate profile.
     Please refer [[https://biology.mit.edu/people/uttam_rajbhandary#selected_publications][here]] for publications.
 
+*** [[http://www.lifesci.dundee.ac.uk/people/gopal-sapkota][Gopal Sapkota]]
+:PROPERTIES:
+:h-index: 19
+:END:
+- School of Life Sciencesm University of Dundee, UK
+- Biochemistry, Molecular Biology, Cell Biology, Cancer, Proteomics
+- [[https://scholar.google.com/citations?user=OD7UwHUAAAAJ&hl=en][Google scholar]]
+
+
 *** [[http://profiles.ucsf.edu/tara.sigdel][Tara Sigdel]]
 :PROPERTIES:
 :h-index:  18
@@ -108,6 +117,14 @@ But this needs help from people who actually know their field and can make a fai
 - Understanding the mechanism of chromosomal instability that leads to formation of tumor and development of genetic disorders.
   He is interested in developing diagnostic and therapeutic tools targeting candidates responsible for tumorigenesis.
 - [[https://scholar.google.com/citations?user=lgGTZ5EAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Roshan_lal_Shrestha][Researchgate]]
+
+*** Rajendra Bahadur Shahi
+:PROPERTIES:
+:h-index: 2
+:END:
+- Medical Oncology, Oncologisch Centrum UZ Brussel, Brussels, Belgium
+- Cancer Genomics
+- [[https://scholar.google.com/citations?user=ziLEJd8AAAAJ&hl=en][Google scholar],[https://www.researchgate.net/profile/Rajendra_Shahi][Researchgate]]
 
 *** [[http://www.chdsnepal.org/profile/dr-rajendra-pangeni-phd/][Rajendra Pangeni]]
 - Feinberg School of medicine, Northwestern University, Chicago
@@ -174,12 +191,29 @@ But this needs help from people who actually know their field and can make a fai
 - ?
 - [[https://scholar.google.com/citations?user=qupLgzAAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Smith_Giri][Researchgate]]
 
+*** Bishal Gyawali
+:PROPERTIES:
+:h-index: 5
+:END:
+- Dept. of Clinical Oncology and Chemotherapy, Nagoya University Graduate School of Medicine, Japan
+- Clinical Oncology
+- [[https://scholar.google.com/citations?user=HMunAlIAAAAJ&hl=en][Google scholar], [https://www.researchgate.net/profile/Bishal_Gyawali2][Researchgate]]
 ** Cardiothoracic Surgery
 
 *** [[https://www.ctsnet.org/home/npanthee][Nirmal Panthee]]
 - Department of Cardiothoracic Surgery, The University of Tokyo, Japan
 - LVAD and heart transplantation, Adult Cardiac Surgery, Aortic Surgery, Pediatric Cardiac Surgery, CRT-D.
 - [[https://www.researchgate.net/profile/Nirmal_Panthee][Researchgate]]
+
+** Biochemistry
+
+*** Rojeet Shrestha
+:PROPERTIES:
+:h-index:  7
+:END:
+- Faculty of Health Sciences, Hokkaido University, Japan
+- Lipid, Lipoprotein, Cardiovascular Disease
+- [[https://scholar.google.com/citations?user=RIJ11WMAAAAJ&hl=en][Google scholar], [https://www.researchgate.net/profile/Rojeet_Shrestha][Researchgate]]
 
 * Chemistry and its subfields
 
@@ -211,6 +245,16 @@ But this needs help from people who actually know their field and can make a fai
 - Development and use of miniaturized analytic methods (microfluidics, paper-analytical devices, point of care diagnostics) appropriate for resource limited settings for various applications.
 - [[https://scholar.google.com/citations?user=xfBx5bIAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Basant_Giri][Researchgate]]
 
+** Organic Chemistry
+
+*** Hem Raj Khatri
+:PROPERTIES:
+:h-index: 4
+:END:
+- University of Michigan
+- Synthetic Organic Chemistry
+- [[https://scholar.google.com/citations?user=5bcrGYEAAAAJ&hl=en][Google scholar], [https://www.researchgate.net/profile/Hem_Raj_Khatri][Researchgate]]
+
 * Environmental and Energy Science
 
 ** Biodiversity, Ecosystem, Flora and Fauna
@@ -219,6 +263,11 @@ But this needs help from people who actually know their field and can make a fai
 - Department of Environmental Science and Engineering, KU, Nepal.
 - River disturbance, fish ecology, macroinvertebrates’ biodiversity & zoogeography, agricultural intensification & rivers water quality, high altitude lakes aquatic biodiversity, and pesticides use and human health impact assessment
 - [[https://scholar.google.co.uk/citations?user=BXmyJ6QAAAAJ&hl=en][Google scholar WARNING SEEMS MISLEADING]] (Lists articles that do not seem to belong to him!! ), [[https://www.researchgate.net/profile/Subodh_Sharma6][Researchgate]]
+
+*** [[http://fish.org.np/dibesh-karmacharya/][Dibesh Karmacharya]]
+- Centre for Molecular Dynamics Nepal (CMDN)
+- Conservation Genetics, Zoonotic Diseases, Biodiversity
+- [[https://www.linkedin.com/in/dibeshkarmacharya/][Linkedin]]
 
 ** Biofeul, Bioenergy
 
@@ -236,15 +285,15 @@ But this needs help from people who actually know their field and can make a fai
 :h-index:  8
 :END:
 - Department of Epidemiology & Cancer Control, St. Jude Children's Research Hospital, USA
-- ?
+- Statistical Genetics, Genetic Epidemiology, Bioinformatics
 - [[https://scholar.google.com/citations?user=QzIbC5oAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Yadav_Sapkota][Researchgate]]
 
 *** [[https://raunakms.wordpress.com/about/][Raunak Shrestha]]
 :PROPERTIES:
 :h-index:  4
 :END:
-- Laboratory of Advanced Genome Analysis , University of British Columbia, Canada.
-- Prostate Cancer Genomics & Bioinformatics.
+- Laboratory of Advanced Genome Analysis, Vancouver Prostate Centre; University of British Columbia, Canada.
+- Bioinformatics, Cancer Genomics, Systems Biology, Data Science, Precision Oncology
 - [[https://scholar.google.com/citations?user=5A37xOcAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Raunak_Shrestha][Researchgate]]
 
 ** Climate change, Geomechanics, Seismology, Hydroinformatics
@@ -545,8 +594,7 @@ But this needs help from people who actually know their field and can make a fai
 ** Antibiotic Resistance
 *** Sameer Mani Dixit
 - Center for Molecular Dynamics Nepal (CMDN), Nepal
-- "Research leading to evidence that can in turn facilitate policy planners to make effective health interventions in Nepal and other developing countries."
-  Epidemiology, Antibiotic Resistiance.
+- Biomedical public-health, Molecular Epidemiology, Antibiotic Resistiance, Infectious Diseases, Cancer.
 - [[https://www.researchgate.net/profile/Sameer_Dixit3][Researchgate]]
 
 ** Environmental Health Science
