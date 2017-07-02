@@ -136,6 +136,16 @@ But this needs help from people who actually know their field and can make a fai
 - Understand the fundamental mechanisms used by Mycobacterium tuberculosis to survive, grow and cause disease
 - [[https://scholar.google.co.uk/citations?user=5UCd-DIAAAAJ&hl=en][Google scholar]]
 
+** Immunology
+
+*** Toya Nath Baral
+:PROPERTIES:
+:h-index: 15
+:END:
+- Associate Principal Scientist, Merck, Palo Alto, California
+- Antibody generation, Immunology, Pharmacology
+- [[https://scholar.google.com/citations?user=5r-R4iUAAAAJ&hl=en][Google scholar]]
+
 ** Clinical Medicine
 
 *** Rajiv Kumar Jha
@@ -167,6 +177,14 @@ But this needs help from people who actually know their field and can make a fai
 
 ** Polymers
 
+*** [Raju Adhikai]
+:PROPERTIES:
+:h-index: 25
+:END:
+- Commonwealth Scientific and Industrial Research Organisation, Australia
+- Polymer, Biomaterials, Small molecules 
+- [[https://scholar.google.com.au/citations?user=AqyrPiUAAAAJ&hl=en][Google scholar], [https://www.researchgate.net/profile/Raju_Adhikari2][Researchgate]]
+ 
 *** [[http://www.nepalpolymer.org/][Rameshwor Adhikari]]
 :PROPERTIES:
 :h-index: 21
@@ -538,7 +556,7 @@ But this needs help from people who actually know their field and can make a fai
 :h-index:  5
 :END:
 - Center for Molecular Dynamics Nepal (CMDN), Nepal
-- ?
+- Medicial Microbiology, Conservation Genomics, Cancer
 - [[https://scholar.google.co.uk/citations?user=HK6k3bYAAAAJ&hl=en&oi=ao][Google scholar]], [[https://www.researchgate.net/profile/Sulochana_Manandhar3][Researchgate]]
 
 ** Health policy modeling
