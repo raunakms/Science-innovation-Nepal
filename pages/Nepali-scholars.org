@@ -101,7 +101,7 @@ But this needs help from people who actually know their field and can make a fai
 - Plant genomics, Population genetics
 - [[https://scholar.google.ca/citations?user=Zrn34GUAAAAJ&hl=en][Google scholar]]
 
-***[[http://www.bric.ku.dk/staff/?pure=en/persons/477251][Chirag Nepal]]	
+*** [[http://www.bric.ku.dk/staff/?pure=en/persons/477251][Chirag Nepal]]	
 :PROPERTIES:
 :h-index: 6
 :END:
