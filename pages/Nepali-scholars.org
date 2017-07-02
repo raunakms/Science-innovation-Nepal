@@ -550,7 +550,7 @@ But this needs help from people who actually know their field and can make a fai
 - ?
 - [[https://scholar.google.com/citations?user=eLW4WQ0AAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Elina_Pradhan][Researchgate]]
 
-** Economics 
+* Economics 
 *** [[https://economics.mit.edu/faculty/ppathak][Parag Pathak]]
 :PROPERTIES:
 :h-index:  29
