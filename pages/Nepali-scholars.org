@@ -91,7 +91,15 @@ But this needs help from people who actually know their field and can make a fai
 - Dept. of Biology and Microbiology, South Dakota State University
 - Plant genomics, Population genetics
 - [[https://scholar.google.ca/citations?user=Zrn34GUAAAAJ&hl=en][Google scholar]]
-	
+
+***[[http://www.bric.ku.dk/staff/?pure=en/persons/477251][Chirag Nepal]]	
+:PROPERTIES:
+:h-index: 6
+:END:
+- Biotech Resarch and Innovation Centre, University of Copenhagen , Copenhagen
+- transcription, translation, cancer genomics
+- [[https://scholar.google.com/citations?user=ejoHmZQAAAAJ&hl=en][Google scholar], [https://www.researchgate.net/profile/Chirag_Nepal2][Researchgate]]
+
 *** [[http://www.chdsnepal.org/profile/dr-roshan-l-shrestha-phd-ms-research-fage/][Roshan Lal Shrestha]]
 :PROPERTIES:
 :h-index:  5
