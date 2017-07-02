@@ -122,7 +122,7 @@ But this needs help from people who actually know their field and can make a fai
 :PROPERTIES:
 :h-index: 3
 :END:
-- dept. of Biology, Stanford University
+- Dept. of Biology, Stanford University
 - Vascular Biology, Cardiovascular Development, Cancer Biology
 - [[https://scholar.google.com/citations?user=fsb6iYIAAAAJ&hl=en][Google scholar]]
 
@@ -227,7 +227,7 @@ But this needs help from people who actually know their field and can make a fai
 
 ** Polymers
 
-*** [Raju Adhikai]
+*** Raju Adhikai
 :PROPERTIES:
 :h-index: 25
 :END:
