@@ -60,6 +60,14 @@ But this needs help from people who actually know their field and can make a fai
   - Seems like no Google scholar and Researchgate profile.
     Please refer [[https://biology.mit.edu/people/uttam_rajbhandary#selected_publications][here]] for publications.
 
+*** [[http://profiles.ucsf.edu/tara.sigdel][Tara Sigdel]]
+:PROPERTIES:
+:h-index:  25
+:END:
+- University of California San Francisco, School of Medicine
+- Transplation genomics, Biomarker discovery
+- [[https://scholar.google.ca/citations?user=TlFEW10AAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Tara_Sigdel][Researchgate]]
+
 *** [[http://www.lifesci.dundee.ac.uk/people/gopal-sapkota][Gopal Sapkota]]
 :PROPERTIES:
 :h-index: 19
@@ -68,22 +76,14 @@ But this needs help from people who actually know their field and can make a fai
 - Biochemistry, Molecular Biology, Cell Biology, Cancer, Proteomics
 - [[https://scholar.google.com/citations?user=OD7UwHUAAAAJ&hl=en][Google scholar]]
 
-
-*** [[http://profiles.ucsf.edu/tara.sigdel][Tara Sigdel]]
-:PROPERTIES:
-:h-index:  18
-:END:
-- University of California San Francisco, School of Medicine
-- Bacterial adaptation, evolution, genetics
-- [[https://scholar.google.com/citations?user=WlwcFloAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Ram_Maharjan4][Researchgate]]
-	
 *** Ram P Maharjan
 :PROPERTIES:
 :h-index:  18
 :END:
 - School of Molecular Biosciences, University of Sydney, Australia
-- Transplation genomics, Biomarker discovery
-- [[https://scholar.google.ca/citations?user=TlFEW10AAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Tara_Sigdel][Researchgate]]
+- Bacterial adaptation, evolution, genetics
+- [[https://scholar.google.com/citations?user=WlwcFloAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Ram_Maharjan4][Researchgate]]
+	
 
 *** Niranjan Parajuli
 :PROPERTIES:
