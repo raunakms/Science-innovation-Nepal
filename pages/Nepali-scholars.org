@@ -221,7 +221,7 @@ But this needs help from people who actually know their field and can make a fai
 :END:
 - Faculty of Health Sciences, Hokkaido University, Japan
 - Lipid, Lipoprotein, Cardiovascular Disease
-- [[https://scholar.google.com/citations?user=RIJ11WMAAAAJ&hl=en][Google scholar], [https://www.researchgate.net/profile/Rojeet_Shrestha][Researchgate]]
+- [[https://scholar.google.com/citations?user=RIJ11WMAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Rojeet_Shrestha][Researchgate]]
 
 * Chemistry and its subfields
 
