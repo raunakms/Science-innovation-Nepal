@@ -60,13 +60,21 @@ But this needs help from people who actually know their field and can make a fai
   - Seems like no Google scholar and Researchgate profile.
     Please refer [[https://biology.mit.edu/people/uttam_rajbhandary#selected_publications][here]] for publications.
 
+*** [[http://profiles.ucsf.edu/tara.sigdel][Tara Sigdel]]
+:PROPERTIES:
+:h-index:  18
+:END:
+- University of California San Francisco, School of Medicine
+- Bacterial adaptation, evolution, genetics
+- [[https://scholar.google.com/citations?user=WlwcFloAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Ram_Maharjan4][Researchgate]]
+	
 *** Ram P Maharjan
 :PROPERTIES:
 :h-index:  18
 :END:
 - School of Molecular Biosciences, University of Sydney, Australia
-- Bacterial adaptation, evolution, genetics
-- [[https://scholar.google.com/citations?user=WlwcFloAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Ram_Maharjan4][Researchgate]]
+- Transplation genomics, Biomarker discovery
+- [[https://scholar.google.ca/citations?user=TlFEW10AAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Tara_Sigdel][Researchgate]]
 
 *** Niranjan Parajuli
 :PROPERTIES:
@@ -76,6 +84,14 @@ But this needs help from people who actually know their field and can make a fai
 - Bio-organic chemistry, biotechnolgy, biochemistry
 - [[https://scholar.google.com/citations?user=nZ_yVn4AAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Niranjan_Parajuli][Researchgate]]
 
+*** [[https://www.sdstate.edu/directory/madhav-nepal][Madhav Nepal]]
+:PROPERTIES:
+:h-index:  6
+:END:
+- Dept. of Biology and Microbiology, South Dakota State University
+- Plant genomics, Population genetics
+- [[https://scholar.google.ca/citations?user=Zrn34GUAAAAJ&hl=en][Google scholar]]
+	
 *** [[http://www.chdsnepal.org/profile/dr-roshan-l-shrestha-phd-ms-research-fage/][Roshan Lal Shrestha]]
 :PROPERTIES:
 :h-index:  5
@@ -103,6 +119,14 @@ But this needs help from people who actually know their field and can make a fai
 - [[https://www.researchgate.net/profile/Bijay_Singh][Researchgate]]
 
 ** Infectious Disease
+
+*** [[https://www.tropicalmedicine.ox.ac.uk/dr-buddha-basnyat][Buddha Basnyat]]
+:PROPERTIES:
+:h-index:  36
+:END:
+- Patan Academy of Health Science, Nepal; Oxford University Clinical Research Unit-Nepal
+- Infectious dieases, Mountain Medicine, Genetics
+- [[https://scholar.google.ca/citations?user=uIacRCoAAAAJ&hl=en][Google scholar]]
 
 *** [[http://webhost.nts.jhu.edu/gl/][Gyanu Lamichhane]]
 :PROPERTIES:
@@ -526,3 +550,11 @@ But this needs help from people who actually know their field and can make a fai
 - ?
 - [[https://scholar.google.com/citations?user=eLW4WQ0AAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Elina_Pradhan][Researchgate]]
 
+** Economics 
+*** [[https://economics.mit.edu/faculty/ppathak][Parag Pathak]]
+:PROPERTIES:
+:h-index:  29
+:END:
+- Dept. of Economics, MIT
+- Market Design, Matching, Labor Economics, Economics of Education
+- [[https://scholar.google.ca/citations?user=VZkUirwAAAAJ&hl=en][Google scholar]]
