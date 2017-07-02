@@ -107,7 +107,7 @@ But this needs help from people who actually know their field and can make a fai
 :END:
 - Biotech Resarch and Innovation Centre, University of Copenhagen , Copenhagen
 - transcription, translation, cancer genomics
-- [[https://scholar.google.com/citations?user=ejoHmZQAAAAJ&hl=en][Google scholar], [https://www.researchgate.net/profile/Chirag_Nepal2][Researchgate]]
+- [[https://scholar.google.com/citations?user=ejoHmZQAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Chirag_Nepal2][Researchgate]]
 
 *** [[http://www.chdsnepal.org/profile/dr-roshan-l-shrestha-phd-ms-research-fage/][Roshan Lal Shrestha]]
 :PROPERTIES:
@@ -132,7 +132,7 @@ But this needs help from people who actually know their field and can make a fai
 :END:
 - Medical Oncology, Oncologisch Centrum UZ Brussel, Brussels, Belgium
 - Cancer Genomics
-- [[https://scholar.google.com/citations?user=ziLEJd8AAAAJ&hl=en][Google scholar],[https://www.researchgate.net/profile/Rajendra_Shahi][Researchgate]]
+- [[https://scholar.google.com/citations?user=ziLEJd8AAAAJ&hl=en][Google scholar]],[[https://www.researchgate.net/profile/Rajendra_Shahi][Researchgate]]
 
 *** [[http://www.chdsnepal.org/profile/dr-rajendra-pangeni-phd/][Rajendra Pangeni]]
 - Feinberg School of medicine, Northwestern University, Chicago
@@ -205,7 +205,7 @@ But this needs help from people who actually know their field and can make a fai
 :END:
 - Dept. of Clinical Oncology and Chemotherapy, Nagoya University Graduate School of Medicine, Japan
 - Clinical Oncology
-- [[https://scholar.google.com/citations?user=HMunAlIAAAAJ&hl=en][Google scholar], [https://www.researchgate.net/profile/Bishal_Gyawali2][Researchgate]]
+- [[https://scholar.google.com/citations?user=HMunAlIAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Bishal_Gyawali2][Researchgate]]
 ** Cardiothoracic Surgery
 
 *** [[https://www.ctsnet.org/home/npanthee][Nirmal Panthee]]
@@ -233,7 +233,7 @@ But this needs help from people who actually know their field and can make a fai
 :END:
 - Commonwealth Scientific and Industrial Research Organisation, Australia
 - Polymer, Biomaterials, Small molecules 
-- [[https://scholar.google.com.au/citations?user=AqyrPiUAAAAJ&hl=en][Google scholar], [https://www.researchgate.net/profile/Raju_Adhikari2][Researchgate]]
+- [[https://scholar.google.com.au/citations?user=AqyrPiUAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Raju_Adhikari2][Researchgate]]
  
 *** [[http://www.nepalpolymer.org/][Rameshwor Adhikari]]
 :PROPERTIES:
@@ -261,7 +261,7 @@ But this needs help from people who actually know their field and can make a fai
 :END:
 - University of Michigan
 - Synthetic Organic Chemistry
-- [[https://scholar.google.com/citations?user=5bcrGYEAAAAJ&hl=en][Google scholar], [https://www.researchgate.net/profile/Hem_Raj_Khatri][Researchgate]]
+- [[https://scholar.google.com/citations?user=5bcrGYEAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Hem_Raj_Khatri][Researchgate]]
 
 * Environmental and Energy Science
 
