@@ -301,7 +301,7 @@ But this needs help from people who actually know their field and can make a fai
 :h-index:  4
 :END:
 - Laboratory of Advanced Genome Analysis, Vancouver Prostate Centre; University of British Columbia, Canada.
-- Bioinformatics, Cancer Genomics, Systems Biology, Data Science, Precision Oncology
+- Bioinformatics, Cancer Genomics, Systems Medicine, Precision Oncology, Data Science
 - [[https://scholar.google.com/citations?user=5A37xOcAAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Raunak_Shrestha][Researchgate]]
 
 ** Climate change, Geomechanics, Seismology, Hydroinformatics
@@ -602,7 +602,7 @@ But this needs help from people who actually know their field and can make a fai
 ** Antibiotic Resistance
 *** Sameer Mani Dixit
 - Center for Molecular Dynamics Nepal (CMDN), Nepal
-- Biomedical public-health, Molecular Epidemiology, Antibiotic Resistiance, Infectious Diseases, Cancer.
+- Biomedical public-health, Molecular Epidemiology, Antibiotic Resistiance, Infectious Diseases, Cancer
 - [[https://www.researchgate.net/profile/Sameer_Dixit3][Researchgate]]
 
 ** Environmental Health Science
@@ -633,6 +633,7 @@ But this needs help from people who actually know their field and can make a fai
 - [[https://scholar.google.com/citations?user=eLW4WQ0AAAAJ&hl=en][Google scholar]], [[https://www.researchgate.net/profile/Elina_Pradhan][Researchgate]]
 
 * Economics 
+
 *** [[https://economics.mit.edu/faculty/ppathak][Parag Pathak]]
 :PROPERTIES:
 :h-index:  29
